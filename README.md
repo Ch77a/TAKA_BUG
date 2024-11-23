@@ -16,7 +16,7 @@
 ---
 
 ## CREATE YOUR FORK
-<a href="https://github.com/Ch77a/TAKA_BUG/fork">
+<a href="https://github.com/Ch77a/TAKA_BUG/forks">
   <img title="TΔҜΔ_βUG🦄βΩT" src="https://img.shields.io/badge/FORK-TΔҜΔ_βUG🦄βΩT-red?color=red&style=for-the-badge&logo=stackshare">
 </a>
 
